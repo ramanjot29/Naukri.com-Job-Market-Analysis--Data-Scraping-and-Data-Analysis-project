@@ -62,7 +62,7 @@ The data analysis phase includes the following key analyses:
 - Emerging market trends
 
 ## Results
-The project's findings and insights are available in the analysis report [here](Analysis report).
+The project's findings and insights are available in the Analysis report.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback.

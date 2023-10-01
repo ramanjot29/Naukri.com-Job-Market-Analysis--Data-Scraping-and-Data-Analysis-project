@@ -1,0 +1,2 @@
+# Naukri.com Job Market Analysis- Data Scraping and Data Analysis project
+ "Naukri.com Job Market Analysis" is a comprehensive data analysis project that aims to provide valuable insights into the dynamic landscape of employment opportunities in India. Leveraging the extensive job listing data available on Naukri.com, this project focuses on extracting, cleaning, and analyzing job market data to uncover trends, patterns, and valuable information for job seekers, employers, and researchers.

@@ -7,7 +7,6 @@
 - [Setup](#setup)
 - [Usage](#usage)
 - [Data Sources](#data-sources)
-- [Data Cleaning](#data-cleaning)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Contributing](#contributing)

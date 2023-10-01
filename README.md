@@ -66,4 +66,3 @@ The project's findings and insights are available in the analysis report [here](
 
 ## Contributing
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback.
-s
